@@ -33,6 +33,8 @@
  * 
  * 
  */
+package middle;
+
 public class uniquePaths {
 	public int uniquePaths(int m, int n) {
         int[][] solution = new int[m][n];

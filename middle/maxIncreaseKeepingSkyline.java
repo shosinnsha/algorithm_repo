@@ -44,7 +44,7 @@ gridNew = [ [8, 4, 8, 7],
  * 
  */
 
-
+package middle;
 
 public class maxIncreaseKeepingSkyline {
 	public static int maxIncreaseKeepingSkyline(int[][] grid) {
