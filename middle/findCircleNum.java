@@ -31,7 +31,7 @@ N 在[1,200]的范围内。
 
 
 
-package ceshi;
+//package ceshi;
 
 public class findCircleNum {
 	public int findCircleNum(int[][] M) {
